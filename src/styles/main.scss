@@ -1,0 +1,14 @@
+@import 'lib/variables';
+@import 'base/reset';
+
+.btn-a {
+  border: 1px solid $color1;
+  color: $color1;
+}
+
+.btn-b {
+  border: 1px solid $color2;
+  color: $color2;
+}
+
+.pointer {cursor: pointer;}
